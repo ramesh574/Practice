@@ -7,7 +7,7 @@ public class Main {
     public static void main(String[] args) {
         boolean quit = false;
         int choice = 0;
-        printInstructions();
+        printInstructins();
         while (!quit) {
             System.out.println("Enter your choice");
             choice = scanner.nextInt();
@@ -37,7 +37,9 @@ public class Main {
             }
         }
     }
-    public static void printInstructions()
+
+
+    public static void printInstructins()
     {
         System.out.println("\n Press");
         System.out.println("\t 0 - To print choice options. ");

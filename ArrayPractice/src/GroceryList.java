@@ -22,7 +22,9 @@ public class GroceryList {
     public void removeGroceryItem(int position) {
         String theItem = groceryList.get(position);
         groceryList.remove(position);
+    }
 
     public boolean findItem(String searchItem) {
+        return true;
     }
 }

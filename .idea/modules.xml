@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Abstraction/Abstraction.iml" filepath="$PROJECT_DIR$/Abstraction/Abstraction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayPractice/ArrayPractice.iml" filepath="$PROJECT_DIR$/ArrayPractice/ArrayPractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArraylIst/ArraylIst.iml" filepath="$PROJECT_DIR$/ArraylIst/ArraylIst.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Classes/Classes.iml" filepath="$PROJECT_DIR$/Classes/Classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collection/Collection.iml" filepath="$PROJECT_DIR$/Collection/Collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello/CollectionFramework/CollectionFramework.iml" filepath="$PROJECT_DIR$/hello/CollectionFramework/CollectionFramework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataStructure/DataStructure.iml" filepath="$PROJECT_DIR$/DataStructure/DataStructure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Deubugging/Deubugging.iml" filepath="$PROJECT_DIR$/Deubugging/Deubugging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exception/Exception.iml" filepath="$PROJECT_DIR$/Exception/Exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Function/Function.iml" filepath="$PROJECT_DIR$/Function/Function.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance/Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InnereClasses/InnereClasses.iml" filepath="$PROJECT_DIR$/InnereClasses/InnereClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interface/Interface.iml" filepath="$PROJECT_DIR$/Interface/Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaProgrmming/JavaProgrmming.iml" filepath="$PROJECT_DIR$/JavaProgrmming/JavaProgrmming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LambdaExpersion/LambdaExpersion.iml" filepath="$PROJECT_DIR$/LambdaExpersion/LambdaExpersion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPSTest/OOPSTest.iml" filepath="$PROJECT_DIR$/OOPSTest/OOPSTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice.iml" filepath="$PROJECT_DIR$/Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Predicate/Predicate.iml" filepath="$PROJECT_DIR$/Predicate/Predicate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrsingVAlueFromString/PrsingVAlueFromString.iml" filepath="$PROJECT_DIR$/PrsingVAlueFromString/PrsingVAlueFromString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RegularExpersion/RegularExpersion.iml" filepath="$PROJECT_DIR$/RegularExpersion/RegularExpersion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Suplier/Suplier.iml" filepath="$PROJECT_DIR$/Suplier/Suplier.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestDb/TestDb.iml" filepath="$PROJECT_DIR$/TestDb/TestDb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Thread/Thread.iml" filepath="$PROJECT_DIR$/Thread/Thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello/hello.iml" filepath="$PROJECT_DIR$/hello/hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
+    </modules>
+  </component>
+</project>
