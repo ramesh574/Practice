@@ -1,5 +1,4 @@
 package ramesh.com;
-
 public interface ITelephone {
      void powerOn();
    void dial(int phoneNumber);

@@ -45,4 +45,6 @@ public class DeskPhone implements ITelephone {
     public boolean isRinging() {
         return isRinging;
     }
+
+  
 }
