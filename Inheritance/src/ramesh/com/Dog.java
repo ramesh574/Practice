@@ -24,6 +24,10 @@ public class Dog extends Animal {
         chew();
         super.eat();
     }
+    @Override
+    public String toString() {
+        return "Dog [eyes=" + eyes + ", legs=" + legs + ", tail=" + tail + ", teeth=" + teeth + ", coat=" + coat + "]";
+    }
     public void walk()
     {
         System.out.println("Dog.walk() called");

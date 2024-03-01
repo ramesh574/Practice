@@ -6,6 +6,7 @@ public class DeskPhone implements ITelephone {
 
     public DeskPhone(int myNumber) {
         this.myNumber = myNumber;
+        System.out.println(myNumber);
     }
 
     @Override
